@@ -68,10 +68,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.15rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.245rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "#c0a375"
@@ -109,7 +109,7 @@
           "_anchor": "menu-e",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "1.15",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "#c0a375",
@@ -211,9 +211,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Bienvenidos",
+                "title": "Bienvenidos &nbsp; &nbsp;",
                 "showText": true,
-                "text": "<b>En neumeh, nosotros creemos en el poder de las ideas.Nosotros trabajamos con clientes locales e internacionales ayudandolos a transformar la manera de hacer negocios.  Con cada cliente hacemos  alianzas que comienzan con estrategias a la medida.  Cuando nos asociamos con nuestros clientes en un servicio completo desarrollamos soluciones creativas, generamos un plan de ataque para captar la atencion de la audencia y asegurar un exito duradero.</b>",
+                "text": "<b>En neumeh, nosotros creemos en el poder de las ideas. Nosotros trabajamos con clientes locales e internacionales ayudandolos a transformar la manera de hacer negocios. Con cada cliente hacemos  alianzas que comienzan con estrategias a la medida.  Cuando nos asociamos con nuestros clientes en un servicio completo desarrollamos soluciones creativas, generamos un plan de ataque para captar la atencion de la audencia y asegurar un exito duradero.</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -258,7 +258,7 @@
               "text-align": "left"
             },
             "B": {
-              "text-align": "right"
+              "text-align": "left"
             },
             "H2": {
               "color": "#f3c649",

@@ -425,11 +425,11 @@ h6,
   color: #ffffff;
 }
 #menu-e .link {
-  font-size: 0.75rem;
+  font-size: 1.15rem;
 }
 #menu-e .dropdown-item,
 #menu-e .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.245rem;
 }
 #menu-e .link:hover,
 #menu-e .dropdown-item:hover,
@@ -477,7 +477,7 @@ h6,
   text-align: left;
 }
 #slider3-c B {
-  text-align: right;
+  text-align: left;
 }
 #slider3-c H2 {
   color: #f3c649;
