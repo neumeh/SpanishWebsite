@@ -213,13 +213,13 @@
                 "showTitle": true,
                 "title": "Bienvenidos &nbsp; &nbsp;",
                 "showText": true,
-                "text": "<b>En neumeh, nosotros creemos en el poder de las ideas. Nosotros trabajamos con clientes locales e internacionales ayudandolos a transformar la manera de hacer negocios. Con cada cliente hacemos  alianzas que comienzan con estrategias a la medida.  Cuando nos asociamos con nuestros clientes en un servicio completo desarrollamos soluciones creativas, generamos un plan de ataque para captar la atencion de la audencia y asegurar un exito duradero.</b>",
+                "text": "<b>En neumeh, nosotros creemos en el poder de las ideas. &nbsp;Con cada cliente creamos &nbsp;alianzas que comienzan con estrategias a la medida.  Cuando nos asociamos con nuestros clientes ofrecemos un servicio completo desarrollando soluciones creativas, generando un plan para captar la atencion de la audiencia y asegurar un exito duradero.</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/brainstorming-2000x920.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -227,13 +227,13 @@
                 "showTitle": true,
                 "title": "Nuestro Equipo",
                 "showText": true,
-                "text": "<b>Neumeh prioritiza las necesidades  de cada cliente. Nos esforzamos en ayudarte a encontrar la voz creativa de tu negocio atravez de nuestra variedad de servicios. Somos una cultura de pensadores y creadores que hemos traido a nuestros clientes ideas que han revolucionado e incrementado sus fans, likes y ventas. Nuestro negocio trabaja celosamente con cada marca para crear una solida comunicacion de estrategias que produciran resultados comprobados.</b>",
+                "text": "<b>Neumeh prioritiza las necesidades  de cada cliente. Nos esforzamos en ayudarte a encontrar la voz creativa de tu negocio atravez de nuestros servicios. Somos un equipo de pensadores y creadores que ofrecemos a nuestros clientes ideas que han revolucionado e incrementado sus seguidores, likes y ventas dentro de las redes sociales.&nbsp;</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/ideasbrain-2000x805.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=K7qWWFn8kIM",
                 "overlay": true,
