@@ -502,7 +502,7 @@
               "family": "et-line"
             }
           },
-          "text2": "512-888-19141&nbsp;",
+          "text2": "512-888-1914&nbsp;",
           "media2": {
             "iconFont": {
               "active": true,
@@ -525,7 +525,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">i</a>nfo@neumeh.com",
           "title1": "Sitios",
           "text5": "<li><a href=\"index.html#slider3-c\" class=\"text-white\"><b>Bienvenido</b></a><a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"index.html#features7-2\"><b>Servicios</b></a></li><li><b><a class=\"text-white\" href=\"#top\">Ayuda</a></b></li>",
-          "text6": "<strong>Contacts</strong><br>Email: sales@neumeh.com<br>Phone: 512-88-1914<br><br><br><br>",
+          "text6": "<strong>Contacts</strong><br>Email: sales@neumeh.com<br>Phone: 512-888-1914<br><br><br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "info@neumeh.com",
